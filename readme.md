@@ -1,6 +1,6 @@
 # [Lab Vert.x](https://github.com/walisonmoreira/lab-vertx)
 
-Experimentos com o [Vert.x](https://vertx.io).
+Experimentos com [Vert.x](https://vertx.io).
 
 ## Links
 
