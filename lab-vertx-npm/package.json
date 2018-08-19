@@ -1,0 +1,7 @@
+{
+    "name": "lab-vertx-npm",
+    "private": true,
+    "scripts": {
+      "start": "vertx run app.js"
+    }
+}
