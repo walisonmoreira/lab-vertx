@@ -1,6 +1,6 @@
 # Lab Vert.x NPM
 
-Demonstra a utilização do NPM para facilitar a instalação e utilização do Vert.x. Foi inspirado no artigo [Vert.x3 says "hello" to NPM users](https://vertx.io/blog/vert-x3-says-hello-to-npm-users).
+Demonstra a utilização do NPM para facilitar a instalação e utilização do Vert.x. Baseado no artigo [Vert.x3 says "hello" to NPM users](https://vertx.io/blog/vert-x3-says-hello-to-npm-users).
 
 Para instalar o Vert.x global:
 
